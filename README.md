@@ -14,7 +14,8 @@
 
 ## Online Marketplaces:
 - [The World's Largest Online Marketplaces (2021)](https://www.statista.com/chart/24405/top-5-online-market-places-by-gmv/)  
-- [Chinese Online Marketplaces](https://github.com/ahkarami/AI-Business-Articles/blob/main/chinese_online_marketplaces.md)  
+- [Chinese Online Marketplaces](https://github.com/ahkarami/AI-Business-Articles/blob/main/chinese_online_marketplaces.md)
+- [Shopify](https://github.com/ahkarami/AI-Business-Articles/blob/main/Shopify_Part1.md)  
 
 ## Miscellaneous:
 - [Visual Representation of how Big Consumer Tech Companies Make Money](https://www.linkedin.com/posts/rammohans_consumertech-businessrevenue-techcompanies-activity-7010443331809767425-VT6k/?utm_source=share&utm_medium=member_android)  
