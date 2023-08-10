@@ -15,6 +15,7 @@
 ## Online Marketplaces:
 - [The World's Largest Online Marketplaces (2021)](https://www.statista.com/chart/24405/top-5-online-market-places-by-gmv/)  
 - [Chinese Online Marketplaces](https://github.com/ahkarami/AI-Business-Articles/blob/main/chinese_online_marketplaces.md)
+- [Africa Online Marketplaces](https://github.com/ahkarami/AI-Business-Articles/blob/main/Africa_Online_MarketPlaces.md)  
 - [Shopify](https://github.com/ahkarami/AI-Business-Articles/blob/main/Shopify_Part1.md)  
 
 ## Miscellaneous:
