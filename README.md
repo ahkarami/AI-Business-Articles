@@ -10,7 +10,8 @@
 - [Game jam first edition results](https://huggingface.co/blog/game-jam-first-edition-results)  
 
 ## Generative AI based Ideas & Notes:
-- [Bulid with Claude Hackathon Winners](https://www.linkedin.com/feed/update/urn:li:activity:7091902016825798656/)  
+- [Bulid with Claude Hackathon Winners](https://www.linkedin.com/feed/update/urn:li:activity:7091902016825798656/)
+- [EBay launches beta test of new generative AI tools for sellers](https://www.retailbrew.com/stories/2023/06/16/ebay-beta-generative-ai)  
 
 ## Online Marketplaces:
 - [The World's Largest Online Marketplaces (2021)](https://www.statista.com/chart/24405/top-5-online-market-places-by-gmv/)  
