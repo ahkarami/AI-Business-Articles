@@ -2,6 +2,7 @@
 
 ## General:
 - [ML Strategies: Why businesses are failing at it](https://www.analyticsinsight.net/machine-learning-strategies-why-businesses-are-failing-at-it/)  
+- [Sharing a Decade of Knowledge: Open Repository of Educational Tech Startup Slides](https://github.com/mahdinasseri/Open-Presentations) [Great]  
 
 ## Nvidia News:
 - [Nvidia is tracking more than 8,500 AI startups with $60B in funding](https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/)    
