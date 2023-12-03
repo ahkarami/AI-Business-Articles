@@ -7,6 +7,9 @@
 ## Nvidia News:
 - [Nvidia is tracking more than 8,500 AI startups with $60B in funding](https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/)    
 
+## Amazon News:
+- [Amazon’s Q AI assistant](https://www.theverge.com/2023/11/28/23980203/aws-amazon-query-generative-ai)  
+
 ## Power of AI in Game Domain:
 - [Game jam first edition results](https://huggingface.co/blog/game-jam-first-edition-results)  
 
