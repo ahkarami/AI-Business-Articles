@@ -10,6 +10,9 @@
 ## Amazon News:
 - [Amazon’s Q AI assistant](https://www.theverge.com/2023/11/28/23980203/aws-amazon-query-generative-ai)  
 
+## Microsoft News:
+- [Microsoft 2023 Annual Report](https://www.microsoft.com/investor/reports/ar23/index.html)  
+
 ## Power of AI in Game Domain:
 - [Game jam first edition results](https://huggingface.co/blog/game-jam-first-edition-results)  
 
