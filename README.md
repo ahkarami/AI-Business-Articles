@@ -21,7 +21,8 @@
 - [EBay launches beta test of new generative AI tools for sellers](https://www.retailbrew.com/stories/2023/06/16/ebay-beta-generative-ai)
 - [How do companies actually use LLMs in production](https://www.linkedin.com/posts/elenasamuylova_how-do-companies-actually-use-llms-in-production-activity-7137435035002949632-5hK5?utm_source=share&utm_medium=member_desktop)
 - [The Economics of Large Language Models](https://sunyan.substack.com/p/the-economics-of-large-language-models)
-- [Vapi: Voice AI for any application](https://vapi.ai/) [Great]  
+- [Vapi: Voice AI for any application](https://vapi.ai/) [Great]
+- [Forbes AI 50 List: The most promising AI startups in 2024](https://weaviate.io/blog/forbes-ai-50-2024)  
 
 ## Online Marketplaces:
 - [The World's Largest Online Marketplaces (2021)](https://www.statista.com/chart/24405/top-5-online-market-places-by-gmv/)  
