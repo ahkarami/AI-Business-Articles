@@ -23,7 +23,8 @@
 - [The Economics of Large Language Models](https://sunyan.substack.com/p/the-economics-of-large-language-models)
 - [Vapi: Voice AI for any application](https://vapi.ai/) [Great]
 - [Forbes AI 50 List: The most promising AI startups in 2024](https://weaviate.io/blog/forbes-ai-50-2024)
-- [Transform your content into engaging AI-generated audio discussions](https://illuminate.google.com/home?pli=1)  
+- [Transform your content into engaging AI-generated audio discussions](https://illuminate.google.com/home?pli=1)
+- [From Scaling to Agents: The Future of AI (Ilya Sutskever's video)](https://www.linkedin.com/posts/eric-vyacheslav-156273169_ilya-sutskever-has-confirmed-that-llms-scaling-activity-7274060753026838528-tAM2?utm_source=share&utm_medium=member_desktop)  
 
 ## Online Marketplaces:
 - [The World's Largest Online Marketplaces (2021)](https://www.statista.com/chart/24405/top-5-online-market-places-by-gmv/)  
